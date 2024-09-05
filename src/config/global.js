@@ -299,12 +299,6 @@ export default {
       link: 'https://oa.upm.es/38763/',
     },
     {
-      referencia:
-        'Gutiérrez, E. (2017). Calidad: instrumento capaz de garantizar el éxito de la gestión a largo plazo evolución del significado de calidad. ',
-      link:
-        'https://ecoredsena-santander.github.io/524500_TECNICO_EN_PATRONAJE_DE_PRENDAS_DE_VESTIR_CF06/downloads/Complementario_14_3_Articulo.pdf',
-    },
-    {
       referencia: 'ISO. (2015). Sistema de gestión de calidad 9001: 2015.',
       link: 'https://www.iso.org/obp/ui/#iso:std:iso:9001:ed-5:v1:es',
     },
