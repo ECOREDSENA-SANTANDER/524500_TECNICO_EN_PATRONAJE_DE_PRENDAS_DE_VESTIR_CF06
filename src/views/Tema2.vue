@@ -118,27 +118,27 @@
     p Consulte los recursos que se relacionan a continuación para ampliar sus conocimientos, y revisar en detalle el proceso de confección de camiseta tipo polo.
     .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-6
-        .tarjeta.color-primario.p-4.mb-5
+        .tarjeta.color-primario.p-4.mb-4
           .row.justify-content-around.align-items-center
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src="@/assets/template/icono-video.svg")
             .col-sm-12.col-md-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-md-9.col-lg-7.mb-sm-0
-                  p.mb-cus-5 #[i Juki central europe]. (11 de agosto 2015). JUKI - polo #[i shirt production]. [video]. YouTube.
+                  p.mb-3.my-2 #[i Juki central europe]. (11 de agosto 2015). JUKI - polo #[i shirt production]. [video]. YouTube.
                 .col-sm-12.col-md-3.col-lg-5
                   a.boton.color-boton(href="https://www.youtube.com/embed/QPor7WBIZNA" target="_blank")
                     span.text-sistm Ir al video
                     i.fas.fa-video.text-sistm
       .col-sm-12.col-lg-6
-        .tarjeta.color-primario.p-4.mb-5
+        .tarjeta.color-primario.p-4.mb-0
           .row.justify-content-around.align-items-center
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src="@/assets/template/icono-video.svg")
             .col-sm-12.col-md-12.col-lg-10
               .row.justify-content-between.align-items-center
-                .col-sm-12.col-md-9.col-lg-7.mb-sm-0
-                  p.mb-cus-5 Academia confección alamoda. (6 de abril de 2019). DIY ¿cómo hacer camiseta polo hombre corte y confección? [video]. YouTube.
+                .col-sm-12.col-md-9.col-lg-7.mb-sm-0.pe-lg-0
+                  p.mb-0 Academia confección alamoda. (6 de abril de 2019). DIY ¿cómo hacer camiseta polo hombre corte y confección? [video]. YouTube.
                 .col-sm-12.col-md-3.col-lg-5
                   a.boton.color-boton(href="https://www.youtube.com/embed/HJJp-lOu1E4" target="_blank")
                     span.text-sistm Ir al video
@@ -163,31 +163,31 @@
       .col-sm-12.col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img_5.png')
 
-    p Consulte los recursos que se relacionan a continuación para ampliar sus conocimientos, y revisar en detalle el proceso de confección de pantalón sudadera.
+    p.mb-4 Consulte los recursos que se relacionan a continuación para ampliar sus conocimientos, y revisar en detalle el proceso de confección de pantalón sudadera.
     
     .row.justify-content-center(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-5
-        .tarjeta.color-primario.p-4.mb-5
+      .col-sm-12.col-lg-6
+        .tarjeta.color-primario.p-4.mb-4
           .row.justify-content-around.align-items-center
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src="@/assets/template/icono-video.svg")
             .col-sm-12.col-md-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-md-9.col-lg-7.mb-sm-0
-                  p.mb-cus-5 Academia confección alamoda. (13 de diciembre 2018). DIY ¿cómo hacer un pantalón sudadera entubado con cintas laterales corte y confección? [video]. YouTube.
+                  p.mb-1 Academia confección alamoda. (13 de diciembre 2018). DIY ¿cómo hacer un pantalón sudadera entubado con cintas laterales corte y confección? [video]. YouTube.
                 .col-sm-12.col-md-3.col-lg-5
                   a.boton.color-boton(href="https://www.youtube.com/embed/oZTVpkX7cuk" target="_blank")
                     span.text-sistm Ir al video
                     i.fas.fa-video.text-sistm
-      .col-sm-12.col-lg-5
-        .tarjeta.color-primario.p-4.mb-5
+      .col-sm-12.col-lg-6
+        .tarjeta.color-primario.p-4.mb-0
           .row.justify-content-around.align-items-center
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src="@/assets/template/icono-video.svg")
             .col-sm-12.col-md-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-md-9.col-lg-7.mb-sm-0
-                  p.mb-cus-5 Academia confección alamoda. (17 de octubre 2019). DIY ¿cómo hacer un pantalón de sudadera mujer corte y confección? [video]. YouTube.
+                  p.mb-1 Academia confección alamoda. (17 de octubre 2019). DIY ¿cómo hacer un pantalón de sudadera mujer corte y confección? [video]. YouTube.
                 .col-sm-12.col-md-3.col-lg-5
                   a.boton.color-boton(href="https://www.youtube.com/embed/hlBctRHgSUw" target="_blank")
                     span.text-sistm Ir al video
